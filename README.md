@@ -6,9 +6,10 @@
 
 Do something like:
 
-    git clone git@github.com: benjaminmgross/exploded_bar.git
-	cd exploded bar
-	ipython
+	$ git clone git@github.com:benjaminmgross/exploded-bar.git
+	$ cd exploded bar
+	$ ipython
+	
 	Python 2.7.6 (default, Mar 22 2014, 22:59:56) 
 	Type "copyright", "credits" or "license" for more information.
 
@@ -21,4 +22,9 @@ Do something like:
 	In [1]: import exploded_bar
 	In [2]: exploded_bar.run_demo()
 
-![exploded_bar][./my_bar]
+![exploded_bar][./my_bar.png]
+
+No I didn't make it a package, it's like 20 lines long... geez.
+
+
+
