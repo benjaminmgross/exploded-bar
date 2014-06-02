@@ -22,7 +22,7 @@ Do something like:
 	In [1]: import exploded_bar
 	In [2]: exploded_bar.run_demo()
 
-![exploded_bar][./my_bar.png]
+![exploded_bar](./my_bar.png)
 
 No I didn't make it a package, it's like 20 lines long... geez.
 
